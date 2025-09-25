@@ -1,4 +1,4 @@
-# Nota Pronta 🚛🧾
+# Track
 
 **Descrição:**  
 Aplicação em Java (Spring Boot) para facilitar a retirada de notas fiscais: motoristas se cadastram via QR Code e conferentes notificam quando as notas estiverem prontas.
